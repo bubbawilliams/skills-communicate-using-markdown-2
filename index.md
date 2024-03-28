@@ -4,3 +4,5 @@
 git help
 git init
  ```
+- [ ] First thing
+- [x] Second thing
